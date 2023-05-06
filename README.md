@@ -16,8 +16,7 @@ In this project the goal is to build an end to end Ml project & practice the pro
       * Python:linting & formatting
       * Pre-commit hooks and makefiles
       * CI/CD (Github Actions)
-      * Infrastructure as code (Terraform)
-      * Homework 
+      * Infrastructure as code (Terraform) 
 
 ## Technologies 
 
