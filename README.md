@@ -1,8 +1,7 @@
-# Mlops_Project
+# Machine learning operations - Mlops (Churn prediction)
 
 
 ### Problem statement
-
 In this project the goal is to build an end to end Ml project & practice the process of MLOPS. The project is broken down into 6 main components:
 
 
